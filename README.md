@@ -1,3 +1,2 @@
 # MIT-Repository
-Under this branch, all code relating to my electric wheelchair project is included. The python files were run by a Raspberry Pi Nano and the
-Arduino files by an Arduino uno with a Adafruit motor shield. 
+This repository is to showcase all of my major programming projects. Each branch will be a different project with all relavent programs that I used to make and test each project.

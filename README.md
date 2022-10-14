@@ -1,2 +1,2 @@
 # MIT-Repository
-This repository is to showcase all of my major programming projects. Each branch will be a different project with all relavent programs that I used to make and test each project.
+This branch includes most of the programs used when my team and I competed in the AVC at the National Robotics Challenge.

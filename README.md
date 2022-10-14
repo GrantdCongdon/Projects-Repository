@@ -1,3 +1,3 @@
 # MIT-Repository
-Under this branch, all code relating to my electric wheelchair project is included. The python files were run by a Raspberry Pi Nano and the
-Arduino files by an Arduino uno with a Adafruit motor shield. 
+Under this branch, all relevent code relating to my stock trading program including stock selecting, analysis, and backtesting. I have also included
+programs I used to simulate live trading and utilization of an E*trade API to create a desktop GUI.

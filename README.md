@@ -1,2 +1,2 @@
 # MIT-Repository
-This repository is to showcase all of my major programming projects. Each branch will be a different project with all relavent programs that I used to make and test each project.
+This program was finilized after the micromouse competition as a way to simulate different maze solving algorithms to improve upon the design from the that year.

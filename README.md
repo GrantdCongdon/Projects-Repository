@@ -1,2 +1,2 @@
 # MIT-Repository
-This repository is to showcase all of my major programming projects. Each branch will be a different project with all relavent programs that I used to make and test each project.
+This branch includes some of the programs relating to my early project exploring the shift register IC and how they work.

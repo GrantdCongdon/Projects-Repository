@@ -77,7 +77,7 @@ if ($result->num_rows > 0) {
 							echo "var map = new google.maps.MAP(document.getElementById('map'), {zoom: 14, center: uluru});\n";
 							echo "var marker = new google.maps.Marker({position:uluru, map: map});\n}\n";
 							echo "</script>\n";
-							echo "<script async defer\n src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCDVWUnDjq7AtfOdXWfEX8cZSuSXs9T_y8&callback=initMap'>\n</script>\n";
+							echo "<script async defer\n src='https://maps.googleapis.com/maps/api/js?key='>\n</script>\n";
 						}
 					}
 				}
@@ -100,7 +100,7 @@ if ($result->num_rows > 0) {
 							echo "var map = new google.maps.MAP\n(document.getElementById('map'), {zoom: 14, center: uluru});\n";
 							echo "var marker = new google.maps.Marker({position:uluru, map: map});\n}\n";
 							echo "</script>\n";
-							echo '<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDVWUnDjq7AtfOdXWfEX8cZSuSXs9T_y8&callback=initMap"></script>';
+							echo '<script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>';
 						}
 					}
 				}

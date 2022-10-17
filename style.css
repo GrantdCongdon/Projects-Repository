@@ -1,0 +1,73 @@
+body {
+	height: 100%;
+	margin: 0%
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	background-image: linear-gradient(to bottom, white, gray, blue);
+}
+
+h4 {
+	text-align: left;
+}
+
+.header img {
+	float: left;
+	width: 100px;
+	border-raduis: 8px;
+	vertical-align: top;
+}
+
+.header h1 {
+	position: relative;
+	top: 18px;
+	right: 30px;
+}
+form {
+	position: relative;
+	right: 25px;
+}
+h1 {
+	text_align: center;
+}
+h2 {
+	position: relative;
+	left: 20px;
+}
+#sub {
+	position: relative;
+	left: 15px;
+}
+#secondPassword {
+	position: relative;
+	left:25px;
+}
+.submit {
+	position: relative;
+	left: 55px;
+}
+form {
+	position: relative;
+}
+#searchFirstname {
+	position: relative;
+	right: 25px;
+}
+#searchLastname {
+	position: relative;
+	left: 25px;
+}
+#title {
+	position: relative;
+	right: 50px;
+}
+#mainImage {
+	width: 50%;
+	float: center;
+}
+#name {
+	text-align: right;
+}
+.coords {
+	text-align: left;
+}
